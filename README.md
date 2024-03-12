@@ -17,6 +17,8 @@
 
 ## Screencasts
 
+<img width="435" alt="image" src="https://github.com/mairechew/alloy-fe/assets/19393967/82414552-98a6-44bd-ad76-b90c0109cc6b">
+
 ![Mobile](https://github.com/mairechew/alloy-fe/assets/19393967/c2d87576-6e10-491b-9845-4e7cd324f2c8)
 
 ![Desktop](https://github.com/mairechew/alloy-fe/assets/19393967/27aa7ef1-8f16-4930-b41e-4dfbdf2d78b3)
