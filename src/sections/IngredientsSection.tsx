@@ -13,7 +13,7 @@ const styles = {
   labelWrapper: 'rounded-full p-6 h-20 w-20 md:h-40 md:w-40',
   offWhiteBg: 'bg-offWhite',
   highlightBg: 'bg-highlight',
-  imgContainer: 'md:h-40 md:w-40 rounded-full',
+  imgContainer: 'h-20 w-20 md:h-40 md:w-40 rounded-full',
 }
 
 const IngredientsSection = () => {

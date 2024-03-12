@@ -9,7 +9,7 @@ const StatSection = () => {
     <Section>
       <div className="flex flex-col md:flex-row relative">
         <Image
-          className="md:order-2 w-full object-cover md:absolute md:top-0 md:left-1/2 md:transform md:-translate-x-1/8 md:mt-20 w-full"
+          className="md:order-2 w-full object-cover md:absolute md:top-0 md:left-1/2 md:transform md:-translate-x-1/8 md:mt-20 w-full m-10"
           src={womanMoisturizing}
           alt="alloy-woman-moisturizing"
           sizes="100vw"
