@@ -8,7 +8,7 @@ import { ReactElement } from 'react'
 
 const IngredientsDescription = ({ text }: { text: string }) => {
   return (
-    <div className="text-[color:var(--primary)] text-3xl font-semibold">
+    <div className="text-[color:var(--primary)] text-xl font-semibold mt-14">
       {text}
     </div>
   )
@@ -16,7 +16,7 @@ const IngredientsDescription = ({ text }: { text: string }) => {
 
 const IngredientsLabel = ({ label }: { label: string }) => {
   return (
-    <div className="text-[color:var(--primary)] text-xl font-semibold hover:font-bold hover:border-b-8 border-secondary pb-4 w-fit h-fit cursor-pointer">
+    <div className="text-[color:var(--primary)] text-xl font-semibold border-b-8 border-transparent pb-4 w-fit h-fit cursor-pointer transition-all transform hover:font-bold hover:border-secondary">
       {label}
     </div>
   )
