@@ -1,4 +1,4 @@
-# ✨ Alloy Take-Home Assignment Submission - Maire Sangster
+# ✨ Alloy Take-Home Submission - Maire Sangster
 
 ## Tech used
 
